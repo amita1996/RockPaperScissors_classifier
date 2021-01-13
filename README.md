@@ -15,6 +15,6 @@ I used Transfer Learning (MobileNet) to train for my model.
 ![3dI7E5pwR07mvKvF](https://user-images.githubusercontent.com/64536392/104521398-7c969280-5605-11eb-8ce0-78776eb0cdc6.png)
 
 Labeled as:
-Paper = 0
-Rock = 1
+Paper = 0,
+Rock = 1,
 Scissors = 2
